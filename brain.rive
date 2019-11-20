@@ -1,0 +1,29 @@
+! version = 2.0
+
++ hello 
+- nice to meet you. Here something interesting for you!!<br> 
+^ <a href="https://symptoms.webmd.com/default.htm#/info">CHECK YOUR SYMPTOMS </a> 
+^ <a href="https://doctor.webmd.com/">Find a Doctor</a><br>
+
++ hi
+- Here something interesting for you!!<br> 
+^ <a href="https://symptoms.webmd.com/default.htm#/info">CHECK YOUR SYMPTOMS </a> 
+^ <a href="https://doctor.webmd.com/">Find a Doctor</a><br>
+​
++ symptom *
+- <star1> Check this blog. It may help you
+​
++ nothing
+- Thanks. Visit our home page 
+
++ thank you
+- you are welcome
+- welcome
+- no problem
+- no worries
+
++ *
+- Sorry did not get what you said
+- I am sorry that i could not understand you. {weight=20}
+- I did not get it {weight=25}
+- Sorry can you please elaborate that for me
